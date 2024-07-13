@@ -22,8 +22,7 @@ hero:
       link: /tianyaxunzhi
     - theme: brand
       text: 疑难杂症
-      link: https://18055975947.github.io/extension/
-      target: _blank
+      link: /difficulty
       rel: external
     - theme: alt
       text: 面试宝典

@@ -92,7 +92,8 @@ export const getSideBarList = (pathname: string) => {
         collapsed: false,
         items: [
           { text: '壁纸', link: '/wallpaper/index' },
-          { text: '配色', link: '/wallpaper/color' }
+          { text: '配色', link: '/wallpaper/color' },
+          { text: '图标', link: '/wallpaper/icon' }
         ]
       }
     ]
