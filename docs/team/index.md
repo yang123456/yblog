@@ -1,3 +1,0 @@
-# TEAM
-
-TEAM index page

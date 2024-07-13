@@ -1,3 +1,0 @@
-# SUMMARIZE
-
-SUMMARIZE index page
